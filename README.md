@@ -4,7 +4,7 @@ Welcome to the Spin The Dice! This simple yet engaging web application allows yo
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](https://fijolkrzysztof.github.io/spin-the-dice/)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
