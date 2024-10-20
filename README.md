@@ -4,7 +4,7 @@ Welcome to the Spin The Dice! This simple yet engaging web application allows yo
 
 ## Table of Contents
 - [Features](#features)
-- [Demo]()
+- [Demo](https://fijolkrzysztof.github.io/spin-the-dice/)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
@@ -15,7 +15,7 @@ Welcome to the Spin The Dice! This simple yet engaging web application allows yo
 - Random number generation for dice rolls (1-6)
 
 ## Demo
-![Spin The Dice Demo]()
+![Spin The Dice Demo](https://fijolkrzysztof.github.io/spin-the-dice/)
 
 ## Technologies Used
 - [Angular](https://angular.io/) - Framework for building the application
